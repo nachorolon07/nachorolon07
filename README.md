@@ -1,6 +1,6 @@
 
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG] 
 <p>
   <h1 align="center"><b>Hello there, I'm ignacio 👋</b></h1>
 </p>
@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][Website]
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
