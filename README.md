@@ -39,7 +39,7 @@
 
 <img align="left" alt="solidity" width="35px" src="https://assets-global.website-files.com/6171e9fea621c67e12b9f9be/61b7ba6e7d27f6632e77bf33_logo.svg" />
 <img align="left" alt="hardhat" width="35px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
-<img align="left" alt="truffle" width="35px" src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png" />
+<img align="left" alt="truffle" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" />
 <img align="left" alt="golang" width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
