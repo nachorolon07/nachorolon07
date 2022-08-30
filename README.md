@@ -38,9 +38,9 @@
 ### Languages and Tools: 
 
 <img align="left" alt="solidity" width="35px" src="https://assets-global.website-files.com/6171e9fea621c67e12b9f9be/61b7ba6e7d27f6632e77bf33_logo.svg" />
-<img align="left" alt="hardhat" width="35px" src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo.png" />
+<img align="left" alt="hardhat" width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
 <img align="left" alt="truffle" width="35px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
-<img align="left" alt="golang" width="35px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+<img align="left" alt="golang" width="35px" src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
