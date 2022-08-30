@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://e7.pngegg.com/pngimages/762/389/png-clipart-go-computer-programming-programming-language-echo-exception-handling-others-computer-computer-program.png" /></b></h4>
+  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://www.kindpng.com/picc/m/424-4241996_addthis-sharing-buttons-transparent-png-golang-gopher-png.png" /></b></h4>
 </p>
 
 
