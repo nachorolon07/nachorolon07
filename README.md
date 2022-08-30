@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://w7.pngwing.com/pngs/126/472/png-transparent-go-redis-computer-programming-programming-language-green-threads-%E9%87%91%E8%9E%8D-computer-programming-programming-language-c.png" /></b></h4>
+  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://image.pngaaa.com/746/1002746-middle.png" /></b></h4>
 </p>
 
 
