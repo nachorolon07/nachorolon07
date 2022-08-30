@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img align="left" alt="solidity" width="35px" src="https://w7.pngwing.com/pngs/3/219/png-transparent-go-programming-language-boilerplate-code-computer-programming-android-others-dog-like-mammal-snout-computer-programming.png" /></b></h4>
+  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img align="left" alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
 </p>
 
 
