@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>web3 Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
+  <h4 align="center"><b>wBackend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
 </p>
 
 
@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a web3 developer / golang developer
+### I am a Backend developer / golang developer
 - ⛓️ I’m currently building with solidity and golang :grin:
 - 🌱 I’m currently learning about smart contracts security.
 - 👯 I’m looking to collaborate with other Developers :wink:
