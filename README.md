@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>Backend Developer ⛓️ / Golang developer <img alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
+  <h4 align="center"><b>Backend Developer <img alt="solidity" width="35px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png](https://cdn-icons-png.flaticon.com/512/6213/6213731.png)" /> / Golang developer <img alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
 </p>
 
 
