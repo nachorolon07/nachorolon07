@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>Backend Developer <img alt="solidity" width="20px" src="https://cdn-icons-png.flaticon.com/512/6213/6213731.png" /> / Golang developer <img alt="solidity" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /></b></h4>
+  <h4 align="center"><b> Cyber Security Analyst/></b></h4>
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 
 
