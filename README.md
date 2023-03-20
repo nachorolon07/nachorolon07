@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b> Cyber Security Analyst</b></h4>
+  <h4 align="center"><b> Data scientist</b></h4>
 </p>
 
 
