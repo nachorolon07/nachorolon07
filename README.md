@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b> Data Analytics</b></h4>
+  <h4 align="center"><b> Data Engineer</b></h4>
 </p>
 
 
